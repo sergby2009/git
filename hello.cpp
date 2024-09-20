@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <locale>
-
-
 int main(){
     char str1[25];
     setlocale(LC_ALL,"");
